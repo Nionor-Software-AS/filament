@@ -4,11 +4,11 @@ return [
 
     'single' => [
 
-        'label' => 'Endre',
+        'label' => 'Rediger',
 
         'modal' => [
 
-            'heading' => 'Endre :label',
+            'heading' => 'Rediger :label',
 
             'actions' => [
 
